@@ -20,7 +20,7 @@ I'm a **Full Stack Developer** with a passion for building clean, performant, an
 - 🔭 Currently building full-stack projects with **Next.js** and **Node.js**
 - 🌱 Deepening my expertise in **TypeScript**, **GSAP**, and **system design**
 - 💡 I enjoy turning complex problems into simple, elegant solutions
-- 📫 Reach me at: **sudipkgec23@gmail.com**
+- 📫 Reach me at: **sudipdas.dev.in@gmail.com**
 
 ---
 
